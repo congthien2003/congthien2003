@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Cong Thien from Binh Duong</p>
+<p align="left">Becoming a Software Engineer...</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Coffee, Code, Code,...<br>📚 I'm becoming Web Dev<br>🎯 Goals: Team Leader<br>🎲 Fun fact: TFT, LoL</p>
+<p align="left">✨ Coffee, Code, Code,...<br>📚 I'm becoming Web Dev<br>🎯 Goals: Team Leader<br></p>
 
 ###
 
